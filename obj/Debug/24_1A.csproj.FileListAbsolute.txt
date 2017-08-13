@@ -1,0 +1,6 @@
+E:\HK2\KPDL\ThucHanh\BT2\24_1A\bin\Debug\24_1A.exe.config
+E:\HK2\KPDL\ThucHanh\BT2\24_1A\bin\Debug\24_1A.exe
+E:\HK2\KPDL\ThucHanh\BT2\24_1A\bin\Debug\24_1A.pdb
+E:\HK2\KPDL\ThucHanh\BT2\24_1A\obj\Debug\24_1A.exe
+E:\HK2\KPDL\ThucHanh\BT2\24_1A\obj\Debug\24_1A.pdb
+E:\HK2\KPDL\ThucHanh\BT2\24_1A\obj\Debug\24_1A.csprojResolveAssemblyReference.cache
